@@ -1,0 +1,39 @@
+h2 {
+    margin-top: 25px !important;
+}
+
+body {
+    background: linear-gradient(to right, #0b486b, #f56217); 
+    color: white;
+    
+}
+
+/* .container {
+    position: absolute;
+     top: 10%;
+    left: 25%;
+    right: 20%;
+    
+   
+
+} */
+
+.get-jokes {
+    
+       background-color: yellow;
+       border-radius: 10px;
+       margin-top: 15px;
+       font-size: 10.5px;
+       font-weight: bolder;
+      }
+
+
+      .get-jokes:hover {
+        background-color: red; /* Green */
+        color: white;
+      }
+.number {
+    min-width:25%;
+    font-size: 14px;
+    height: 1.5em !important;
+}
